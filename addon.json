@@ -1,0 +1,10 @@
+{
+    "title":        "Advanced Axis",
+    "type":         "tool",
+    "tags":         ["build"],
+    "description":  "Creates an axis constraint on an arbitrary axis",
+    "ignore":
+    [
+        ".git*"
+    ]
+}
